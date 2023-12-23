@@ -8,7 +8,7 @@ Insight to be Gained:
 
 To discover details about awards, unique organizations, character award counts, top-rated episodes, average person height, highly voted episodes, organizational success, relationships, individual achievements, and episode comparisons. SQL's analytical capabilities make this dataset essential for navigating the dynamic world of television entertainment.
 
-# QUESTION TO LEAD TO THE INSIGHT
+# QUESTIONS TO LEAD TO THE INSIGHT
 
 1. Retrieve all columns from the "Award" table.
 2. List unique organizations from the "Award" table.
